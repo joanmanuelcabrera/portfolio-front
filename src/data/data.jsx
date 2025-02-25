@@ -1,4 +1,3 @@
-
 export const filmProjects = [
   {
     id: "66240b8b15bf51202506de02",
@@ -10,9 +9,9 @@ export const filmProjects = [
     url: "https://vimeo.com/1054197741",
     images: [],
     credits:
-    "Producer: Sara Pedocchi\n\nDirector: Joan Manuel Cabrera\nDP: Joan Manuel Cabrera\nFirst AC: Belén Morales\nSecond AC: Nahuen Olivera\n\nCreative Direction: Sara Pedocchi\nArt Director: Sally Chen\nArt Assistant: Sara Pedocchi\nCostume Designer: Sally Chen, Meteo, Sara Pedocchi, Studio Tres\nHair & Makeup: Renata Mastrángelo\n\nMusic and Sounddesign: Felipe Decker\n\nPost Production: Senobia Estudio\nEditor: Joan Manuel Cabrera\nColour Grading: Joan Manuel Cabrera\nBack: Julieta Fleitas\n\nStarring:\nAzul Vega as Hei\nFrancisca Piperno as Judge 1\nSara Pedocchi as Judge 2\nJoan Manuel Cabrera as Judge 3\n\nShot at Espacio Idus\n\nAll content copyright the artist. © 2024 JOAN MANUEL CABRERA. Site Credit.",
+      "Producer: Sara Pedocchi\n\nDirector: Joan Manuel Cabrera\nDP: Joan Manuel Cabrera\nFirst AC: Belén Morales\nSecond AC: Nahuen Olivera\n\nCreative Direction: Sara Pedocchi\nArt Director: Sally Chen\nArt Assistant: Sara Pedocchi\nCostume Designer: Sally Chen, Mateo Martínez, Sara Pedocchi, Studio Tres\nHair & Makeup: Renata Mastrángelo\n\nMusic and Sounddesign: Feli Decker\n\nPost Production: Senobia Estudio\nEditor: Joan Manuel Cabrera\nColour Grading: Joan Manuel Cabrera\nBack: Julieta Fleitas\n\nStarring:\nAzul Vega as Hei\nFrancisca Piperno as Judge 1\nSara Pedocchi as Judge 2\nJoan Manuel Cabrera as Judge 3\n\nShot at Espacio Idus\n\nAll content copyright the artist. © 2024 JOAN MANUEL CABRERA. Site Credit",
     description:
-      "",
+      "Desfasaje Crónico is a collaboration between artists Joan Manuel Cabrera and Sara Pedocchi in the form of a fashion film. This short, both experimental and conceptual, delves into the contrasts within the human individual—specifically, the duality and uniqueness of human independence. Through a visually striking and unconventional narrative, it challenges perceptions of identity and transformation.",
     read_more: "",
     createdAt: "2024-04-20T18:38:03.540Z",
     updatedAt: "2024-09-16T20:09:13.210Z",
@@ -22,7 +21,7 @@ export const filmProjects = [
     title: "Going Away",
     slug: "going-away",
     type: "film",
-    year: "2024-04-13T12:00:00.000Z",
+    year: "2024-10-14T12:00:00.000Z",
     project: "Fashion Film",
     url: "https://vimeo.com/918754576",
     images: [],
@@ -251,7 +250,7 @@ export const photoProjects = [
     description:
       "A story between two concepts, both as real and uncertain, as the man and the sea.\n",
     read_more:
-      "I think of the sea, I think of him constantly. There is a force superior to me, superior to everything I know, that takes me straight to it. It's beautiful. His delicacy and his ferocity, his fresh and feminine air, his masculine strength, his sudden and sensual movements leave me completely in awe.\n\nHis heartbreaking beauty moves me and leaves me speechless every time I stand in front of him. I feel the need to prove that I am on his level. I need him to see me, to admire me the way I admire him.\n\nI am afraid of the sea. I don't know how it is possible to admire and feel so terrified at the same time. I am steady and secure with my feet in the sand when he's near, otherwise his waves would take me to the depths - a place I am not yet ready to visit yet - everyone knows that. But I feel so weak, so fragile and vulnerable, that my hands freeze when I reach to touch him.\n\nI see how he embraces those brave enough to enter it and how he listens to those who approach him, but he rejects me. I could never tell him how much I want to be listened to and hugged like that, but how can I, me so fragile and small in front of his huge blue back.\n\nI love being near him and smelling his scent, seeing how his movements become feminine the moment the sun goes down. It amuses me to see how he also feels he must hide his true self from the sun, as if his presence intimidates him and it is only with the moon that it can be true. In the dark, where he thinks no one sees him. But I do see him.\n\nNow I want to be the one to intimidate him, I want to be like the sun. I want to have that power over him like he has over me.\n",
+      "I think of the sea constantly. There is a force greater than myself, greater than everything I know, that draws me straight to it. It's stunning: his delicacy and ferocity, his fresh, feminine air combined with masculine strength, and his sudden, sensual movements—all leave me completely in awe.\n\nHis heartbreaking beauty moves me, leaving me speechless each time I stand before him. I feel the need to prove myself on his level, to have him see and admire me the way I do him.\n\nI fear the sea. How is it possible to admire and feel such terror simultaneously? With my feet steady in the sand, I feel secure when he's near; otherwise, his waves would pull me into the depths—a place I'm not yet ready to visit, everyone knows that. Yet, I feel so weak, fragile, and vulnerable that my hands freeze when I reach to touch him.\n\nI see how he embraces those brave enough to enter and listens to those who approach, but he rejects me. I could never express how much I long to be listened to and embraced like them. How can I, so small and fragile before his vast blue expanse?\n\nI love being near him, inhaling his scent, and witnessing his movements become feminine as the sun sets. It amuses me to see how he, too, feels the need to conceal his true self from the sun, as if its presence intimidates him, only revealing himself under the moon's gaze, in the darkness where he believes no one watches. But I see him.\n\nNow, I want to be the one to intimidate him—I want to be like the sun. I want to wield that power over him as he does over me.",
     createdAt: "2024-04-24T23:07:12.717Z",
     updatedAt: "2024-09-16T20:08:30.042Z",
   },
