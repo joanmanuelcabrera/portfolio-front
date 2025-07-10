@@ -1,7 +1,6 @@
 // services/config.js
 
 import { stables } from "../constants/stables";
-import { aboutData, contactData } from "../data/data";
 
 // Función genérica para obtener datos de la API con caching
 export const fetchDataWithCache = async (url, cacheKey) => {
@@ -38,15 +37,6 @@ export const fetchDataWithCache = async (url, cacheKey) => {
 
 // Obtener configuración por tipo
 export const getConfigByType = async (type) => {
-  switch (type) {
-    case "about":
-      return aboutData
-    case "contact":
-      return contactData
-    default:
-      throw new Error("Invalid config type");
-  }
-
   const url = `${stables.BASE_URL}/config/by-type/${type}?limit=1000`;
   const cacheKey = `config_${type}`;
   return await fetchDataWithCache(url, cacheKey);
